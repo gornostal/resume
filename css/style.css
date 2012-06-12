@@ -80,7 +80,7 @@ h1 {
 
 h2 {
     padding-bottom: 10px;
-    font-size: 32px;
+    font-size: 27px;
     background: url('../images/bg_hr.png') repeat-x bottom;
 }
 
@@ -127,7 +127,7 @@ a {
 
 #main_content a:hover {
     color: #0069ba;
-    text-shadow: #0090ff 0px 0px 2px;
+    text-shadow: #0090ff 0px 0px 1px;
 }
 
 footer a:hover {
