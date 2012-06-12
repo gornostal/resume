@@ -77,7 +77,9 @@ h1 {
     font-size: 36px;
     font-weight: 700;
 }
-
+h1 em {
+    color: #999;
+}
 h2 {
     padding-bottom: 10px;
     font-size: 27px;
