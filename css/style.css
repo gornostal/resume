@@ -3,8 +3,6 @@ Slate Theme for Github Pages
 by Jason Costello, @jsncostello
 *******************************************************************************/
 
-@import url(pygment_trac.css);
-
 /*******************************************************************************
 MeyerWeb Reset
 *******************************************************************************/
@@ -201,10 +199,15 @@ blockquote {
 ul, ol, dl {
     margin-bottom: 15px
 }
-
+ul {
+    margin-left: 30px;
+}
 ul li {
-    list-style: inside;
-    padding-left: 20px;
+    list-style: outside;
+    padding-left: 0px;
+}
+ul ul li, ol ul li {
+    list-style-type: circle;
 }
 
 ol li {
