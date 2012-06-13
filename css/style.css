@@ -279,6 +279,12 @@ Full-Width Styles
     margin: 0 auto;
 }
 
+/**
+ * Usage: <span class="pagebreak"></span>
+ */
+.pagebreak {
+    display: none;
+}
 
 
 /*******************************************************************************
@@ -325,4 +331,56 @@ Small Device Styles
         font-size: 11px;
     }
 
+}
+
+
+/*******************************************************************************
+Printer Styles
+*******************************************************************************/
+@media print {
+    body {
+        background: white;
+        font-size: 14px;
+        margin: 10px 0;
+    }
+    h1 {
+        font-size: 25px;
+        margin-bottom: 0px;
+        padding-bottom: 0px;
+    }
+    h2 {
+        margin-bottom: 0px;
+        padding-bottom: 0px;
+        font-size: 18px;
+    }
+    h3 {
+        font-size: 18px;
+    }
+    h4 {
+        font-size: 16px;
+    }
+    h5 {
+        font-size: 14px;
+    }
+    h6 {
+        font-size: 14px;
+    }
+    p {
+        margin: 2px 0 5px 0;
+    }
+    a {
+        color: black;
+        text-decoration: none;
+    }
+    a:link:after {
+        content: " (" attr(href) ") ";
+    }
+
+    ul {
+        margin-bottom: 5px;
+    }
+    .pagebreak {
+        display: block;
+        page-break-before: always;
+    }
 }
