@@ -33,27 +33,27 @@ Responsibilities and duties:
 
 The most recent projects in which I had role of the lead developer:
 
-* _[Application for Mamba](http://mamba.ru/app_platform/?action=view&app_id=288)_ – an iframe application developed using
+* _[Application for Mamba](http://mamba.ru/app_platform/?action=view&app_id=288)_ – an iframe application, developed using
     **Zend Framework, MongoDB, Redis**, utilizes **Mamba API**.
-    For two month I (along with other developer) made this application ready for Mamba users
+    For two month I (along with other developer) made this application ready for use
 * _[Discount Evolution](http://discount-on-lines.com)_ – an online discount market with sophisticated system of bonuses. 
-    I was working alone on this project for about. Was used **Zend Framework, MySQL**
+    I was working alone on this project for about 5 month. Was used **Zend Framework, MySQL**
 * _[Bukabench](http://bukabench.com)_ – dynamic website for readers and book recommendations.
     Used technologies: **MODx CMS, MySQL, Memcached**. I worked on this project along with two other developers.
 
-Almost for every project was used jQuery library for UI development.  
-Latest projects was developed with partial usage of HTML5 and CSS3 technologies.
-I have also developed about 15 other relatively simple websites with **MODx CMS**, and one with **Magento CMS**.
+Almost for every project I used jQuery library for the UI development.  
+Latest projects was developed with partial usage of HTML5 and CSS3 technologies.  
+I have also developed about 15 other not very complicated websites with **MODx CMS**, and one with **Magento CMS**.
 
 <u>_March 2008 - September 2009 / **Web developer** @ [Unisystem, Ltd](http://unisystem.ua/en.html)_</u>
 
-Unisystem is a manufacturer of payment terminals, cash registers, thermal printers, POS terminals 
-I was working on development and support of _The National System of Mass Electronic Payments_.  
+Unisystem is a manufacturer of payment terminals, cash registers, thermal printers, POS terminals.
+I was working at the department of banking payment systems, that was engaged in development and maintaince of _The National System of Mass Electronic Payments_.  
 
 Responsibilities and duties:
 
 * refinement of an existing payment system _[Interplat](http://interplat.ua/)_ using PHP and sometimes Perl
-* administration of servers and MSSQL
+* administration of payment servers and MSSQL database
 * client support
 
 I also developed and successfully implemented a billing system for the Interplat.
@@ -61,11 +61,18 @@ I also developed and successfully implemented a billing system for the Interplat
 
 ## Education
 
-_2005 - 2011_ – National Technical University of Ukraine "KPI".  
+_2005 - 2011_ – **National Technical University of Ukraine "KPI"**.  
 Graduated with a Master's degree in Computer Science.
 
 ## Skills
 
+* proficient in **PHP** (strong understanding of OPP, debugging and profiling with PHP)
+* use **Zend Framework** for last 2 years, before I was working with **MODx CMS** for a long time
+* have considerable experience with **MySQL** (configuration, administration, optimization)
+* I have also used **MongoDB** and **Redis** and know their APIs as well as PHP libraries (Shanty-Mongo, Rediska)
+* 4 years I'm developing and enhancing my skills in **Javascript** (can also write CoffeeScript) and **HTML/CSS**
+* use jQuery for 2 years and also have some experience with such libraries as backbone.js, require.js, paper.js
+* know how to work with Git and SVN
 
 ## Language skills
 
