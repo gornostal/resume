@@ -345,13 +345,15 @@ Printer Styles
     }
     h1 {
         font-size: 25px;
-        margin-bottom: 0px;
-        padding-bottom: 0px;
+        margin: 0;
+        padding: 0;
     }
     h2 {
-        margin-bottom: 0px;
+        margin-bottom: 10px;
         padding-bottom: 0px;
         font-size: 18px;
+        border-bottom: 1px dashed #aaa;
+        background: none;
     }
     h3 {
         font-size: 18px;
@@ -372,13 +374,18 @@ Printer Styles
         color: black;
         text-decoration: none;
     }
-    a:link:after {
+    em a:after {
         content: " (" attr(href) ") ";
     }
 
     ul {
         margin-bottom: 5px;
     }
+
+    .inner {
+        max-width: none;
+    }
+
     .pagebreak {
         display: block;
         page-break-before: always;
