@@ -39,7 +39,7 @@ The most recent projects in which I had role of the lead developer:
 * _[Discount Evolution](http://discount-on-lines.com)_ – an online discount market with sophisticated system of bonuses. 
     I was working alone on this project for about 5 month. Was used **Zend Framework, MySQL**
 * _[Bukabench](http://bukabench.com)_ – dynamic website for readers and book recommendations.
-    Used technologies: **MODx CMS, MySQL, Memcached**. I worked on this project along with two other developers.
+    Used technologies: **MODx CMS, MySQL, Memcached, Zend Lucene**. I worked on this project along with two other developers.
 
 Almost for every project I used jQuery library for the UI development.  
 Latest projects was developed with partial usage of HTML5 and CSS3 technologies.  
@@ -66,12 +66,12 @@ Graduated with a Master's degree in Computer Science.
 
 ## Skills
 
-* proficient in **PHP** (strong understanding of OPP, debugging and profiling with PHP)
+* proficient in **PHP** (strong understanding of OOP, debugging and profiling with PHP)
 * use **Zend Framework** for last 2 years, before I was working with **MODx CMS** for a long time
 * have considerable experience with **MySQL** (configuration, administration, optimization)
-* I have also used **MongoDB** and **Redis** and know their APIs as well as PHP libraries (Shanty-Mongo, Rediska)
+* for some projects I have used **MongoDB**, **Redis** and **Memcached** as well as PHP libraries for those data stores
 * 4 years I'm developing and enhancing my skills in **Javascript** (can also write CoffeeScript) and **HTML/CSS**
-* use jQuery for 2 years and also have some experience with such libraries as backbone.js, require.js, paper.js
+* use jQuery for 2 years and also have some experience with such libraries as backbone.js, require.js, underscore.js, paper.js
 * know how to work with Git and SVN
 
 ## Language skills
