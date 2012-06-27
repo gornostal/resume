@@ -16,7 +16,7 @@ I'm skilled both in back-end development with PHP and front-end development (Jav
 I have considerable experience developing web applications using Zend Framework and MODx CMS.
 In most projects I have used MySQL, but I also have some experience with MongoDB and Redis.  
 I'm most passionate about developing high quality and maintainable web applications, exploring new server-side and client-side technologies.  
-At the moment I'm learning Python, Node.js.
+At the moment I'm learning Python, Django.
 
 
 ## Work experience
@@ -70,8 +70,8 @@ Graduated with a Master's degree in Computer Science.
 * use **Zend Framework** for last 2 years, before I was working with **MODx CMS** for a long time
 * have considerable experience with **MySQL** (configuration, administration, optimization)
 * for some projects I have used **MongoDB**, **Redis** and **Memcached** as well as PHP libraries for those data stores
-* 4 years I'm developing and enhancing my skills in **Javascript** (can also write CoffeeScript) and **HTML/CSS**
-* use jQuery for 2 years and also have some experience with such libraries as backbone.js, require.js, underscore.js, paper.js
+* 4 years I'm developing and enhancing my skills in **Javascript** and **HTML/CSS**
+* use **jQuery** for 2 years and also have some experience with such libraries as backbone.js, require.js, underscore.js, paper.js, Google Closure library
 * know how to work with Git and SVN
 
 ## Language skills
