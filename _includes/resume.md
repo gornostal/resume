@@ -78,7 +78,7 @@ Graduated with a Master's degree in Computer Science.
 
 * Ukrainian (native)
 * Russian (fluent)
-* English (intermediate)
+* English (upper intermediate)
 
 ## Pet projects
 
