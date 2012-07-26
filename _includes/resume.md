@@ -26,7 +26,7 @@ At the moment I'm learning Python, Django.
 Responsibilities and duties:
 
 * development and deployment of websites
-* convert raw images and layouts from a graphic designer into CSS/XHTML themes
+* convert raw images and layouts from a graphic design to CSS/XHTML themes
 * determine appropriate architecture, and other technical solutions, and make relevant recommendations to clients
 * produce project estimates
 * write user documentation for site managers
