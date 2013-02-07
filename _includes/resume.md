@@ -1,7 +1,7 @@
 # Aleksandr Gornostal, _web developer_
 
 Age: 24  
-Phone: +38(050)731-55-36  
+Phone: +380507315536  
 Email: <sanya.gornostal@gmail.com>  
 Github: <https://github.com/gornostal>
 
@@ -11,7 +11,7 @@ To obtain a web developer position that is challenging, rewarding and provides a
 
 ## Summary
 
-I'm a web developer with over 4 years working experience and Master degree in computer science.
+I'm a web developer with over 4 years working experience and a Master's degree in Computer Science.
 I'm skilled both in back-end development with PHP and front-end development (Javascript, jQuery, HTML5).
 I have considerable experience developing web applications using Zend Framework and MODx CMS.
 In most projects I have used MySQL, but I also have some experience with MongoDB and Redis.  
@@ -21,9 +21,13 @@ I'm most passionate about developing high quality and maintainable web applicati
 ## Work experience
 
 
-<u>_August 2012 - Present time / **Software Engineer ** @ [Cogniance](http://cogniance.com)_</u>  
+<u>_August 2012 - Present / **Software Engineer ** @ [Cogniance](http://cogniance.com)_</u>  
 
+Cogniance is an outsourcing company providing software solutions for start-ups.
 
+Here I'm enjoying working with smart people, improving my knowledge in JavaScript, PHP and Python.  
+
+In the last 6 month I significantly improved my experience in regular expressions and HtmlUnit framework.
 
 <u>_January 2010 - July 2012 / **Web developer ** @ [Perspective (Web Studio)](http://perspective.net.ua)_</u>  
 
@@ -31,7 +35,7 @@ Responsibilities and duties:
 
 * development and deployment of websites
 * convert raw images and layouts from a graphic design to CSS/XHTML themes
-* determine appropriate architecture, and other technical solutions, and make relevant recommendations to clients
+* determine appropriate architecture and other technical solutions and make relevant recommendations to clients
 * produce project estimates
 * write user documentation for site managers
 
@@ -51,14 +55,14 @@ I have also developed about 15 other not very complicated websites with **MODx C
 
 <u>_March 2008 - September 2009 / **Web developer** @ [Unisystem, Ltd](http://unisystem.ua/en.html)_</u>
 
-Unisystem is a manufacturer of payment terminals, cash registers, thermal printers, POS terminals.
+Unisystem is a manufacturer of payment terminals, cash registers, thermal printers, POS terminals.  
 I was worked at the department of banking payment systems, that was engaged in development and maintenance of _The National System of Mass Electronic Payments_.  
 
 Responsibilities and duties:
 
 * refinement of existing payment system _[Interplat](http://interplat.ua/)_ using PHP and sometimes Perl
 * administration of payment servers and MSSQL database
-* client support
+* troubleshooting
 
 I also developed and successfully implemented a billing system for the Interplat.
 
@@ -74,7 +78,7 @@ Graduated with a Master's degree in Computer Science.
 * used **Zend Framework** for 2 years; made dozen of websites with **MODx CMS**
 * have considerable experience with **MySQL** (configuration, administration, optimization)
 * in few projects I used **MongoDB**, **Redis** and **Memcached** as well as PHP libraries for these data stores
-* 4 years I have been developing and enhancing my skills in **Javascript** and **HTML/CSS**
+* 4 years I have been developing and enhancing my skills in **Javascript**, **HTML** and **CSS**
 * use **jQuery** for 2 years and also have some experience with such libraries as backbone.js, require.js, underscore.js, paper.js, Google Closure library
 * experienced Git user
 
