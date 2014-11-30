@@ -94,4 +94,4 @@ Graduated with a Master's degree in Computer Science.
 
 _[Plugin for Sublime Text 2](https://github.com/gornostal/Modific)_ – Python  
 _[Chrome extension for Twitter](https://github.com/gornostal/twittext)_ – Javascript, Backbone.js  
-_[Plugin for Sublime Text 2](https://github.com/gornostal/Modific-LightTable)_ – ClojureScript  
+_[Plugin for LightTable IDE](https://github.com/gornostal/Modific-LightTable)_ – ClojureScript  
