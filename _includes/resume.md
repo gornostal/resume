@@ -24,7 +24,7 @@ While working in an outsourcing company, I've developed better communication ski
 Responsibilities:
 
 * team lead for a team of 2-4 developers
-* implementation and support of JS applications embeded in vehicle head units
+* implementation and support of JS applications embedded in vehicle head units
 * test automation of web applications using Selenium. Created a framework for QA automation engineers
 * implementation of web scrappers in JS and PHP. Required good understanding of regular expressions
 * provide estimate for pre-sale projects
