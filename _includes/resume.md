@@ -22,6 +22,7 @@ I'm most passionate about creating end-user applications with good UX.
 While working in an outsourcing company, I've developed better communication skills, learned to manage a small team.
 
 Responsibilities:
+
 * team lead for a team of 2-4 developers
 * implementation and support of JS applications embeded in vehicle head units
 * test automation of web applications using Selenium. Created a framework for QA automation engineers
