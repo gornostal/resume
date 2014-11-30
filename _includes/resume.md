@@ -1,7 +1,7 @@
 # Aleksandr Gornostal, _web developer_
 
 Age: 26  
-Phone: +380-50-731-5536  
+Phone: +38-050-731-5536  
 Email: <sanya.gornostal@gmail.com>  
 Github: <https://github.com/gornostal>
 
