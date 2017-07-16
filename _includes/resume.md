@@ -22,7 +22,7 @@ I like working in a team. Can lead one if needed.
 
 ## Work Experience
 
-_August 2012 - Present / **Senior Software Engineer ** @ [Cogniance](http://cogniance.com)_ 
+**August 2012 - Present / Senior Software Engineer** @ [Cogniance](http://cogniance.com)
 
 While working in an outsourcing company I've developed good communication skills, learned to lead a software development team.
 
@@ -35,11 +35,11 @@ Acquired lots of knowledge in
 * Interviewing candidates
 * Giving tech-talks. Conducted several tech-talks about Git and front-end technologies
 
-_January 2010 - July 2012 / **Senior Software Engineer** @ [Perspective (Web Studio)](http://perspective.net.ua)_  
+**January 2010 - July 2012 / Senior Software Engineer** @ [Perspective (Web Studio)](http://perspective.net.ua) 
 
 I made more than a dozen of web sites of different complexity using PHP (ZendFramework, Magento, MODx), HTML/CSS, MongoDB, MySQL.
 
-_March 2008 - September 2009 / **Web developer** @ [Unisystem, Ltd](http://unisystem.ua/en.html)_
+**March 2008 - September 2009 / Web developer** @ [Unisystem, Ltd](http://unisystem.ua/en.html)
 
 Unisystem is a manufacturer of payment terminals, cash registers, thermal printers, POS terminals. 
 
