@@ -1,6 +1,6 @@
 # Aleksandr Gornostal, _software eng._
 
-Email: <sanya.gornostal@gmail.com>  
+Email: <al.gornostal@gmail.com>  
 Phone: +38 050 731 5536  
 Linkedin: <http://www.linkedin.com/in/aleksandr-gornostal-a1479439>  
 Github: <https://github.com/gornostal>
@@ -8,21 +8,32 @@ Github: <https://github.com/gornostal>
 ## Summary
 
 I'm a full-stack software engineer.  
-Most efficient in writing code in JS (FE/BE) or Python.  
-I like working in a team. Can lead one if needed.
+I like working in a team, building web applications and APIs.  
+Eager to take on new technical challenges.
 
-## Tech That I Know Good
+## I'm Good At
 
-* JS (NodeJS, VueJS)
-* HTML/CSS
-* Python (GTK, Flask/Bottle, Zappa)
-* PHP (Symfony 2)
+* Web dev with JS (React, Typescript)
+* Backend/API development using NodeJS and Python
 * MongoDB
+* RabbitMQ
 * Docker
 
 ## Work Experience
 
-**August 2012 - Present / Senior Software Engineer** @ [Cogniance](http://cogniance.com)
+**August 2017 - Present / Tech Lead** @ [Luxoft](https://luxoft.com)
+
+As a tech lead in team of 6 people I was responsible for
+
+* Communication with a BA and a product owner. Helping them to define technical side of user stories
+* Breaking down tasks and user stories for developers and QA in my team
+* Research and PoC work that was required for some features
+* Communication with other 4 teams and a Devops team that worked on the same project
+* Helping my team with technical tasks
+
+--- 
+
+**August 2012 - August 2017 / Senior Software Engineer** @ [Cogniance](https://cogniance.com)
 
 Acquired lots of knowledge in
 
@@ -43,13 +54,8 @@ I made more than a dozen of web sites of different complexity using PHP (ZendFra
 
 **March 2008 - September 2009 / Web developer** @ [Unisystem, Ltd](http://unisystem.ua/en.html)
 
-Unisystem is a manufacturer of payment terminals, cash registers, thermal printers, POS terminals. 
-
-I was responsible for
-
-* Support and improvement of payment system "Interplat". Was writing mostly in PHP; sometimes in Perl
-* Administration of payment servers and MSSQL database
-* Development and integration of a billing system
+Unisystem is a manufacturer of payment terminals, cash registers, thermal printers, POS terminals.  
+I was responsible for support and improvement of payment system "Interplat", which was writing in PHP.
 
 ## Education
 
@@ -67,4 +73,3 @@ Graduated with a Master's degree in Computer Science.
 _[ulauncher.io](http://ulauncher.io)_ – Fast Application launcher for Linux  
 _[Plugin for Sublime Text 2](https://github.com/gornostal/Modific)_ – Python  
 _[Plugin for LightTable IDE](https://github.com/gornostal/Modific-LightTable)_ – ClojureScript  
-_[Chrome extension for Twitter](https://github.com/gornostal/twittext)_ – Javascript, Backbone.js  
