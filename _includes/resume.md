@@ -23,7 +23,7 @@ Eager to take on new technical challenges.
 
 **August 2017 - Present / Tech Lead** @ [Luxoft](https://luxoft.com)
 
-As a tech lead in team of 6 people I was responsible for
+As a tech lead in a team of 6 people I was responsible for
 
 * Communication with a BA and a product owner. Helping them to define technical side of user stories
 * Breaking down tasks and user stories for developers and QA in my team
