@@ -48,14 +48,14 @@ Acquired lots of knowledge in
 
 **January 2010 - July 2012 / Senior Software Engineer** @ [Perspective (Web Studio)](http://perspective.net.ua) 
 
-I made more than a dozen of web sites of different complexity using PHP (ZendFramework, Magento, MODx), HTML/CSS, MongoDB, MySQL.
+I made more than a dozen web sites of different complexity using PHP (ZendFramework, Magento, MODx), HTML/CSS, MongoDB, MySQL.
 
 ---
 
 **March 2008 - September 2009 / Web developer** @ [Unisystem, Ltd](http://unisystem.ua/en.html)
 
 Unisystem is a manufacturer of payment terminals, cash registers, thermal printers, POS terminals.  
-I was responsible for support and improvement of payment system "Interplat", which was writing in PHP.
+I was responsible for support and improvement of payment system "Interplat", which was written in PHP.
 
 ## Education
 
