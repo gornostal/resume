@@ -18,6 +18,7 @@ Eager to take on new technical challenges.
 * MongoDB
 * RabbitMQ
 * Docker
+* Debugging software and finding solutions
 
 ## Work Experience
 
